@@ -10,3 +10,20 @@ Responsive Design:
 Clean and Modern Design: 
   Features a sleek, contemporary layout with well-organized content and stylish typography.<br>
 </pre>
+<br><br>
+Usage : 
+<pre>
+  Simply open the index.html file in your browser to experience the parallax effect in action.<br>  The site is designed to be responsive, ensuring that the parallax effect looks great on <br>  both desktop and mobile devices.
+  OR
+  Go to the website I provided in the about section of this repository.
+</pre>
+<br><br>
+Contributing : 
+<pre>
+  Feel free to submit issues or pull requests if you have suggestions or improvements. Contributions are welcome! 
+</pre>
+<br><br>
+Contact: 
+<pre>
+For any inquiries or feedback, please contact me at <a href="mailto:pranav12340987@gmail.com">pranav12340987@gmail.com</a>.
+</pre>

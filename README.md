@@ -16,6 +16,8 @@ Usage :
   Simply open the index.html file in your browser to experience the parallax effect in action.<br>  The site is designed to be responsive, ensuring that the parallax effect looks great on <br>  both desktop and mobile devices.
   OR
   Go to the website I provided in the about section of this repository.
+  OR
+  Simply just <a href="https://pranav89624.github.io/Parallex-Website/" target="_blank">Tap Here</a>
 </pre>
 <br><br>
 Contributing : 
